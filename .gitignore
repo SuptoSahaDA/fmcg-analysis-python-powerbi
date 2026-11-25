@@ -1,0 +1,28 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+
+# Ignore dataset folder
+Data_Sheet/
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# System files
+.DS_Store
+Thumbs.db
