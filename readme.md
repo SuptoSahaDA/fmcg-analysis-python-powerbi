@@ -429,7 +429,7 @@ The project demonstrates how data analytics can transform raw business data into
 
 **Analytical Skills:** Data Cleaning, EDA, KPI Analysis, Profitability Analysis, Business Insights, Data Visualization, Data Storytelling
 
-## 16.Author & Contact
+## 16. Author & Contact
 
 **Supto Saha** | Food Engineering Student & Aspiring Data Analyst
 
