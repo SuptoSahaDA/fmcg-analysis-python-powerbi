@@ -292,7 +292,7 @@ This page focuses on product-level performance and profitability.
 - Product Revenue and Margin Relationship
 
 #### Dashboard Preview
-
+![image alt](https://github.com/SuptoSahaDA/fmcg-analysis-python-powerbi/blob/aa6573bef25ff2310de91536336d6042d83e1ce2/Visualizations/FMCG_Product_Profitability.png.png)
 ![FMCG Product and Profitability Analysis](Visualizations/FMCG_Product_Profitability.png)
 
 ---
