@@ -19,8 +19,8 @@
 - [13. How to Run This Project](#13-how-to-run-this-project)
 - [14. Requirements](#14-requirements)
 - [15. Conclusion](#15-conclusion)
-- [16. Author](#author)
-- [17. Contact](#contact)
+- [16. Author](#-author)
+- [17. Contact](#-contact)
 
 ---
 
