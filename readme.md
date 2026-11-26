@@ -267,6 +267,7 @@ This page presents an executive overview of sales, profitability, and business g
 - Sales Channel Performance
 
 #### Dashboard Preview
+![image alt](https://github.com/SuptoSahaDA/fmcg-analysis-python-powerbi/blob/8ee77c44aa67345d6676e7ef118fc86bbd762f93/Visualizations/FMCG_Executive_Overview.png.png)
 
 ![FMCG Executive Overview](Visualizations/FMCG_Executive_Overview.png)
 
